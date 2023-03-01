@@ -7,5 +7,4 @@ Home page
 
 create New List page 
 
-![image](https://user-images.githubusercontent.com/59315014/222130076-be13527d-8075-44a0-9ad3-40ad1a239292.png)
-
+![image](https://user-images.githubusercontent.com/59315014/222130450-aa43a253-b013-4da4-979d-22dfc3d13a4a.png)
